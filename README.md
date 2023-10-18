@@ -1,6 +1,8 @@
 # Kre38Labs_Task
 Kre38Labs_Task - Employee System
+
 Steps to Run Project:
+
 1. Download the repository from the Github - https://github.com/Honnur6268/Kre38Labs_Task.git
 2. Open the Spring Boot project in your Eclipse IDE
 3. Create Database in MySQL Workbench or Command Line Client
