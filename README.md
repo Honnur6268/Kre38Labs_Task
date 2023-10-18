@@ -9,13 +9,13 @@ Steps to Run Project:
 6. Test the api using Postman or Swagger Ui
 
 Rest Endpoints:
-GET - To view all Employees - [http://localhost:8080/api/task/tasks](http://localhost:8080/api/employee)
-POST - To save Employees to db - http://localhost:8080/api/employee
-    {
-      "employeeName":"ABC",
-      "address":"bangalore"
-    }
-
-GET - To get the Employee by ID - http://localhost:8080/api/employee/{employeeId}
-DELETE - To delete the Employee by ID - http://localhost:8080/api/employee/{employeeId}
+    a. GET - To view all Employees - [http://localhost:8080/api/task/tasks](http://localhost:8080/api/employee) 
+    b. POST - To save Employees to db - http://localhost:8080/api/employee
+            {
+              "employeeName":"ABC",
+              "address":"bangalore"
+            }
+            
+    c. GET - To get the Employee by ID - http://localhost:8080/api/employee/{employeeId}
+    d. DELETE - To delete the Employee by ID - http://localhost:8080/api/employee/{employeeId}
 
