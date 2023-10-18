@@ -9,6 +9,7 @@ Steps to Run Project:
 6. Test the api using Postman or Swagger Ui
 
 Rest Endpoints:
+
     a. GET - To view all Employees - [http://localhost:8080/api/task/tasks](http://localhost:8080/api/employee) 
     b. POST - To save Employees to db - http://localhost:8080/api/employee
             {
