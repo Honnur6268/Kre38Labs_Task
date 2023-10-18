@@ -12,7 +12,7 @@ Steps to Run Project:
 
 Rest Endpoints:
 
-    a. GET - To view all Employees - [http://localhost:8080/api/task/tasks](http://localhost:8080/api/employee) 
+    a. GET - To view all Employees - http://localhost:8080/api/employee)
     b. POST - To save Employees to db - http://localhost:8080/api/employee
             {
               "employeeName":"ABC",
